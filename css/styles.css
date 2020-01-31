@@ -1,0 +1,37 @@
+.container {
+    margin: auto;
+}
+
+.row {
+    margin: auto:
+}
+
+.block {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.img-2 {
+    text-align: center;
+    margin: 7px;
+}
+
+.rightimg {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+
+h5 {
+    margin-top: 30px;
+}
+
+button {
+    text-align: center;
+}
